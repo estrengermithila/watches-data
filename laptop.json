@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "MacBook Pro 16-inch",
+        "brand": "Apple",
+        "price": 2499
+    },
+    {
+        "id": 2,
+        "name": "XPS 13",
+        "brand": "Dell",
+        "price": 1199
+    },
+    {
+        "id": 3,
+        "name": "ThinkPad X1 Carbon",
+        "brand": "Lenovo",
+        "price": 1399
+    },
+    {
+        "id": 4,
+        "name": "Spectre x360 14",
+        "brand": "HP",
+        "price": 1299
+    },
+    {
+        "id": 5,
+        "name": "Surface Laptop 5",
+        "brand": "Microsoft",
+        "price": 999
+    },
+    {
+        "id": 6,
+        "name": "ROG Zephyrus G14",
+        "brand": "Asus",
+        "price": 1499
+    },
+    {
+        "id": 7,
+        "name": "Acer Swift 3",
+        "brand": "Acer",
+        "price": 679
+    },
+    {
+        "id": 8,
+        "name": "Yoga 9i",
+        "brand": "Lenovo",
+        "price": 1099
+    },
+    {
+        "id": 9,
+        "name": "Predator Helios 300",
+        "brand": "Acer",
+        "price": 1299
+    },
+    {
+        "id": 10,
+        "name": "Galaxy Book Pro 360",
+        "brand": "Samsung",
+        "price": 1399
+    }
+]
+ 
